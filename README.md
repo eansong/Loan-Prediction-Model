@@ -1,2 +1,4 @@
 # Loan-Prediction-Model
-Contains a gallery submission explaining how a loan prediction model was built using azure machine learning studio.
+This is a gallery submission explaining how a loan prediction model was built using azure machine learning studio.
+
+https://gallery.cortanaintelligence.com/Experiment/Loan-Prediction-Model-1
